@@ -69,7 +69,7 @@ const Repository: React.FC = () => {
             <div>
               <strong>{repository.full_name}</strong>
               <p>{repository.description}</p>
-            </div>s
+            </div>
           </header>
           <ul>
             <li>
